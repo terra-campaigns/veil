@@ -4,6 +4,8 @@ title: Systems
 has_children: true
 has_toc: false
 nav_order: 99
+nav_exclude: true
+search_exclude: true
 
 ---
 

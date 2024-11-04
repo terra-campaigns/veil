@@ -5,6 +5,9 @@ has_children: true
 nav_order: 5
 has_toc: FALSE
 
+nav_exclude: true
+search_exclude: true
+
 footer_content: 
 
 ---
