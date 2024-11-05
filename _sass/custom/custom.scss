@@ -12,7 +12,7 @@ h1, h2, h3, h4 {
 }
 
 tr:nth-child(even) td{
-  background-color: #f2f2f2;
+  background-color: darken($grey-dk-300, 10%);
 }
 
 th, td {
