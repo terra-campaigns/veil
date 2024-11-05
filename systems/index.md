@@ -4,37 +4,32 @@ title: Systems
 has_children: true
 has_toc: false
 nav_order: 99
-nav_exclude: true
-search_exclude: true
 
 ---
 
-{% include srd_modules/srd_version.md %}
+# Systems
 
-# Character Creation
+## Player Resources
 
-{% include srd_modules/character-creation.md %}
+- Character creation: KDL Core Rules p.
+- Player Moves [Reference Sheet](https://kultdivinitylost.com/wp-content/uploads/2018/08/KULT-Divinity-Lost-Reference-Sheet-Player-Moves.pdf)
+- Fillable PDF [Character Sheet](https://kultdivinitylost.com/wp-content/uploads/2018/09/KULT_Divinity_Lost_Char_Sheet_Filliable.pdf)
 
-{% include_relative bonds.md %}
+## Solo Gaming
 
-{% include srd_modules/attributes.md %}
+### Momentum
 
-{% include srd_modules/hp.md %}
+Roll -Hold ...
 
-{% include srd_modules/saves.md %}
+### Oracle: GM Moves
 
-{% include srd_modules/healing.md %}
+|     |      |     |
+| --- | ---- | --- |
+| 1   | Move | pxx |
+| 2   | Move |     |
+| 3   | ...  |     |
+| 4   |      |     |
 
-{% include srd_modules/conditions.md %}
+### Oracle: Tarot Cards
 
-{% include srd_modules/armour.md %}
-
-{% include srd_modules/npcs.md %}
-
-{% include srd_modules/dieoffate.md %}
-
-{% include srd_modules/combat.md %}
-
-{% include srd_modules/scars.md %}
-
-{% include_relative ruin.md %}
+- Use Kult's Tarot Cards ([Rules](https://drive.google.com/file/d/1vydDsYUAin7mJYzFIgzeNrQi--sgfZRd/view))
