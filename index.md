@@ -9,18 +9,21 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 # Veil
 
-> **Um cenário inspirado em *Kult: Divindade Perdida***
+> **Um cenário inspirado em *Kult: Divinity Lost***
 
 **O mundo ao nosso redor é uma mentira.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERgTf-pByb0?si=od6X2gLrX7E5EFdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://i.kickstarter.com/assets/029/421/040/6c3783a151d5e3b56800e4ebf4b12dc3_original.png?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&width=1552&sig=T6wRvc%2BbrmU7daFWgkZjYwVNPHOrovH01DdN5cdCs1I%3D)
 
 A humanidade está presa em uma Ilusão. Mantida cativa por nossos próprios carcereiros. Não podemos ver as grandes cidadelas de Metrópole se erguerem acima de nossos mais altos arranha-céus. Não podemos ouvir os gritos que ecoam do porão onde degraus ocultos nos levam. Não conseguimos sentir o cheiro de sangue e carne queimada das pobres almas sacrificadas a Deuses há muito esquecidos, em vielas perdidas. Sentimo-nos isolados, sós, e fazemos o possível para nos manter afastados dos perigos, da escuridão da cidade em que habitamos.
 
-Os seguintes links podem ser usados como uma introdução ao cenário de **Kult: Divindade Perdida**
+Os seguintes links podem ser usados como uma introdução ao cenário de **Kult: Divinity Lost**
 
 - Site oficial do [Kult: Divinity Lost website](https://kultdivinitylost.com/) da Helmgast
 - [How-To-Play](https://youtube.com/playlist?list=PLzIc6l3Y1yLR2tCuqpYMr5k9vcZhIDyZ_&si=dGqWU39EmWhQdlMD) video playlist do TTRP Theater.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERgTf-pByb0?si=od6X2gLrX7E5EFdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Temas
 
