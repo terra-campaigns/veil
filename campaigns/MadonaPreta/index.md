@@ -40,6 +40,6 @@ Role um d8 e consulte no Black Madonna.
 | 3   | Secret Past        |
 | 4   | Strange Death      |
 | 5   | Occult Fascination |
-| 6   | Gulty              |
+| 6   | Guilty             |
 | 7   | Addict             |
 | 8   | Flashbacks         |
