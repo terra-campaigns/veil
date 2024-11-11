@@ -25,9 +25,9 @@ timeline v0.1
 
 ## Criação de Personagens
 
-Links para livros (acesso restrito):
-- [Core Rules](https://drive.google.com/open?id=1gPczGPNEelkE9i1ghwD9T7i7nLX9pnSx&usp=drive_fs)
-- [Black Madonna](https://drive.google.com/open?id=1-ggxdooXll2hQIySQjvM0lHRSucYOVKn&usp=drive_fs)
+- KDL [Core Rules](https://drive.google.com/open?id=1gPczGPNEelkE9i1ghwD9T7i7nLX9pnSx&usp=drive_fs)
+- KDL [Black Madonna](https://drive.google.com/open?id=1-ggxdooXll2hQIySQjvM0lHRSucYOVKn&usp=drive_fs) expansion character rules
+- Character Sheets [Document](https://docs.google.com/document/d/1EWYjmETAbZZSn_kCo7NYO3I-kMAtElm6X4j4M_3FSe8/edit?usp=drive_link)
 
 ### Dark Secrets (d8)
 
