@@ -33,13 +33,31 @@ timeline v0.1
 
 Role um d8 e consulte no Black Madonna.
 
-|     |                    |
-| --- | ------------------ |
-| 1   | Broken Childhood   |
-| 2   | Mental Ilness      |
-| 3   | Secret Past        |
-| 4   | Strange Death      |
-| 5   | Occult Fascination |
-| 6   | Guilty             |
-| 7   | Addict             |
-| 8   | Flashbacks         |
+|       |                                          |
+| ----- | ---------------------------------------- |
+| **1** | ![](https://i.imgur.com/ZfIPFBM.png)<br> |
+| **2** | ![](https://i.imgur.com/fw30fwb.png)<br> |
+| **3** | ![](https://i.imgur.com/gU39bkx.png)<br> |
+| **4** | ![](https://i.imgur.com/XoRiMBG.png)<br> |
+| **5** | ![](https://i.imgur.com/a15GbYY.png)<br> |
+| **6** | ![](https://i.imgur.com/aGebl17.png)<br> |
+| **7** | ![](https://i.imgur.com/ul5Cu4C.png)<br> |
+| **8** | ![](https://i.imgur.com/JtwuCck.png)<br> |
+
+### Occupation (d10)
+
+Role um d10 e imprima o *Playbook* do seu personagem.
+Na sessão de Dark Secrets anote os detalhes definidos anteriormente.
+
+|       |                                                                                                                                                                        |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | ![](https://i.imgur.com/CNnqcQr.png)<br>Download and print [The Agent](https://drive.google.com/open?id=10uTeDVgx_cnL2_qtOwnmAB7QCka1G68S&usp=drive_fs) *Playbook*     |
+| **2** | ![](https://i.imgur.com/uTsHWwH.png)<br>Download and print [The Careerist](https://drive.google.com/open?id=10GXfGeEW93x1DoLSFF8twjf_XWXWQKre&usp=drive_fs) *Playbook* |
+| **3** | ![](https://i.imgur.com/6BwlUbF.png)<br>Download and print [The Academic](https://drive.google.com/open?id=10tOFP0TsU9RaEIB6C6E-J1dsvF2oWPri&usp=drive_fs) *Playbook*  |
+| **4** | ![](https://i.imgur.com/oXAhC1O.png)<br>Download and print [The Fixer](https://drive.google.com/open?id=10FiEfI81V6yYavXBMm-S1ll4gryb4YlK&usp=drive_fs) *Playbook*     |
+| **5** | ![](https://i.imgur.com/9K1UtqT.png)<br>Download and print [The Veteran](https://drive.google.com/open?id=111Sx0iIksjlu8NE-ywxljsOJIYgahhbr&usp=drive_fs) *Playbook*   |
+| **6** | ![](https://i.imgur.com/4ZMIKpW.png)<br>Download and print [The Detective](https://drive.google.com/open?id=10e0HmjO6ad18Nw1AKiZrh7Pao4wpeh-v&usp=drive_fs) *Playbook* |
+| **7** | ![](https://i.imgur.com/9xvEbo6.png)<br>Download and print [The Artist](https://drive.google.com/open?id=10Vf4-Ga_I2MChon3S1iqk9CUSyHXYxSp&usp=drive_fs) *Playbook*    |
+| **8** | ![](https://i.imgur.com/VJW2hDD.png)<br>Download and print [The Occultist](https://drive.google.com/open?id=11HYS-joZuMzKfkIz0NxnqMKA6Nw1F5uQ&usp=drive_fs) *Playbook* |
+| **9** | ![](https://i.imgur.com/mgU7f7K.png)<br>Download and print [The Ronin](https://drive.google.com/open?id=10NH3d1v6zvMigV7TR0ogs8v-tqlF_Gcs&usp=drive_fs) *Playbook*     |
+| **0** | ![](https://i.imgur.com/bwpmgwa.png)<br>Download and print [The Deceiver](https://drive.google.com/open?id=1169OcEss-EosHMcdArR0SDzpWz-qprar&usp=drive_fs) *Playbook*  |
